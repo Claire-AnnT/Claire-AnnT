@@ -45,7 +45,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Mermaid](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=mermaid&logoColor=white)
 
 ## 🗨️ Socials
 
