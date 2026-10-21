@@ -6,7 +6,7 @@ I turn complex product requirements into reliable backend services and intuitive
 
 ## 🧰 Languages & Tools
 
-### Languages
+### 🛠️ Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
